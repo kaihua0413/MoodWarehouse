@@ -1,8 +1,8 @@
 const CACHE_NAME = 'mood-diary-v1';
 const STATIC_ASSETS = [
-  '/',
-  '/index.html',
-  '/manifest.json',
+  '/MoodWarehouse/',
+  '/MoodWarehouse/index.html',
+  '/MoodWarehouse/manifest.json',
 ];
 
 // 安装 Service Worker
